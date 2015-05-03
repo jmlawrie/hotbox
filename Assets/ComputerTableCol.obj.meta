@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: fe6b987e26d6b0449be579168c9b6a16
+timeCreated: 1430657277
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BackLegRunner_BackLegRunner
+    100002: BallFoot1_BallFoot1
+    100004: BallFoot2_BallFoot2
+    100006: BallFoot3_BallFoot3
+    100008: BallFoot4_BallFoot4
+    100010: //RootNode
+    100012: Hinge_Hinge
+    100014: HingeBlock_HingeBlock
+    100016: HingeBolt_HingeBolt
+    100018: HingeScrew1_HingeScrew1
+    100020: HingeScrew2_HingeScrew2
+    100022: HingeScrew3_HingeScrew3
+    100024: HingeScrew4_HingeScrew4
+    100026: HingeScrew5_HingeScrew5
+    100028: HingeScrew6_HingeScrew6
+    100030: HingeScrew7_HingeScrew7
+    100032: HingeScrew8_HingeScrew8
+    100034: LegRunner1_LegRunner1
+    100036: LegRunner2_LegRunner2
+    100038: TableSupportRod_SupportRod
+    100040: TableTop_TableTop
+    100042: TableTop_TableTopSurface
+    400000: BackLegRunner_BackLegRunner
+    400002: BallFoot1_BallFoot1
+    400004: BallFoot2_BallFoot2
+    400006: BallFoot3_BallFoot3
+    400008: BallFoot4_BallFoot4
+    400010: //RootNode
+    400012: Hinge_Hinge
+    400014: HingeBlock_HingeBlock
+    400016: HingeBolt_HingeBolt
+    400018: HingeScrew1_HingeScrew1
+    400020: HingeScrew2_HingeScrew2
+    400022: HingeScrew3_HingeScrew3
+    400024: HingeScrew4_HingeScrew4
+    400026: HingeScrew5_HingeScrew5
+    400028: HingeScrew6_HingeScrew6
+    400030: HingeScrew7_HingeScrew7
+    400032: HingeScrew8_HingeScrew8
+    400034: LegRunner1_LegRunner1
+    400036: LegRunner2_LegRunner2
+    400038: TableSupportRod_SupportRod
+    400040: TableTop_TableTop
+    400042: TableTop_TableTopSurface
+    2300000: BackLegRunner_BackLegRunner
+    2300002: BallFoot1_BallFoot1
+    2300004: BallFoot2_BallFoot2
+    2300006: BallFoot3_BallFoot3
+    2300008: BallFoot4_BallFoot4
+    2300010: Hinge_Hinge
+    2300012: HingeBlock_HingeBlock
+    2300014: HingeBolt_HingeBolt
+    2300016: HingeScrew1_HingeScrew1
+    2300018: HingeScrew2_HingeScrew2
+    2300020: HingeScrew3_HingeScrew3
+    2300022: HingeScrew4_HingeScrew4
+    2300024: HingeScrew5_HingeScrew5
+    2300026: HingeScrew6_HingeScrew6
+    2300028: HingeScrew7_HingeScrew7
+    2300030: HingeScrew8_HingeScrew8
+    2300032: LegRunner1_LegRunner1
+    2300034: LegRunner2_LegRunner2
+    2300036: TableSupportRod_SupportRod
+    2300038: TableTop_TableTop
+    2300040: TableTop_TableTopSurface
+    3300000: BackLegRunner_BackLegRunner
+    3300002: BallFoot1_BallFoot1
+    3300004: BallFoot2_BallFoot2
+    3300006: BallFoot3_BallFoot3
+    3300008: BallFoot4_BallFoot4
+    3300010: Hinge_Hinge
+    3300012: HingeBlock_HingeBlock
+    3300014: HingeBolt_HingeBolt
+    3300016: HingeScrew1_HingeScrew1
+    3300018: HingeScrew2_HingeScrew2
+    3300020: HingeScrew3_HingeScrew3
+    3300022: HingeScrew4_HingeScrew4
+    3300024: HingeScrew5_HingeScrew5
+    3300026: HingeScrew6_HingeScrew6
+    3300028: HingeScrew7_HingeScrew7
+    3300030: HingeScrew8_HingeScrew8
+    3300032: LegRunner1_LegRunner1
+    3300034: LegRunner2_LegRunner2
+    3300036: TableSupportRod_SupportRod
+    3300038: TableTop_TableTop
+    3300040: TableTop_TableTopSurface
+    4300000: BackLegRunner_BackLegRunner
+    4300002: BallFoot1_BallFoot1
+    4300004: BallFoot2_BallFoot2
+    4300006: BallFoot3_BallFoot3
+    4300008: BallFoot4_BallFoot4
+    4300010: Hinge_Hinge
+    4300012: HingeBlock_HingeBlock
+    4300014: HingeBolt_HingeBolt
+    4300016: HingeScrew1_HingeScrew1
+    4300018: HingeScrew2_HingeScrew2
+    4300020: HingeScrew3_HingeScrew3
+    4300022: HingeScrew4_HingeScrew4
+    4300024: HingeScrew5_HingeScrew5
+    4300026: HingeScrew6_HingeScrew6
+    4300028: HingeScrew7_HingeScrew7
+    4300030: HingeScrew8_HingeScrew8
+    4300032: LegRunner1_LegRunner1
+    4300034: LegRunner2_LegRunner2
+    4300036: TableSupportRod_SupportRod
+    4300038: TableTop_TableTop
+    4300040: TableTop_TableTopSurface
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
